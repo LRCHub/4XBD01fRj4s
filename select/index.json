@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "GOODLUCKSTORY",
+  "base_artist": "harha",
+  "createdAt": "2025-12-19T02:00:33.019215Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOODLUCKSTORY",
+      "artist": "harha",
+      "has_synced": false,
+      "path": "select/pl_01_GOODLUCKSTORY_harha.txt"
+    }
+  ]
+}
